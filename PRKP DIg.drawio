@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T19:10:21.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="i14-bc9QTAU2Z6LEM-Wk" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T19:11:45.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="iru0eW-KQOJpngyhch84" version="13.7.6" type="github">
   <diagram id="M-6_nHY1cDUSRKYvI6IK" name="Page-1">
     <mxGraphModel dx="2903" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           <mxGeometry x="106" y="70" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZZcHqFq-lp88FjB9ps0R-17" value="&lt;b&gt;Melihat Halaman Publikasi&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="700" width="148" height="62" as="geometry" />
+          <mxGeometry x="-234" y="700" width="148" height="62" as="geometry" />
         </mxCell>
         <mxCell id="ZZcHqFq-lp88FjB9ps0R-18" value="" style="endArrow=classic;html=1;strokeColor=#FF6666;fontSize=16;fontColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R547sJcPqhLJ_ZiRgb1J-73" target="ZZcHqFq-lp88FjB9ps0R-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
